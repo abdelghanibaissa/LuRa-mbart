@@ -1,5 +1,5 @@
 {
-  "best_metric": 6.351462364196777,
+  "best_metric": 6.329300880432129,
   "best_model_checkpoint": "./lora_mbart_results\\checkpoint-10",
   "epoch": 2.0,
   "eval_steps": 500,
@@ -10,18 +10,18 @@
   "log_history": [
     {
       "epoch": 1.0,
-      "eval_loss": 6.767548561096191,
-      "eval_runtime": 0.5181,
-      "eval_samples_per_second": 9.652,
-      "eval_steps_per_second": 3.861,
+      "eval_loss": 6.760484218597412,
+      "eval_runtime": 0.5239,
+      "eval_samples_per_second": 9.543,
+      "eval_steps_per_second": 3.817,
       "step": 5
     },
     {
       "epoch": 2.0,
-      "eval_loss": 6.351462364196777,
-      "eval_runtime": 0.551,
-      "eval_samples_per_second": 9.074,
-      "eval_steps_per_second": 3.63,
+      "eval_loss": 6.329300880432129,
+      "eval_runtime": 0.4721,
+      "eval_samples_per_second": 10.591,
+      "eval_steps_per_second": 4.237,
       "step": 10
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "best_metric": 6.767548561096191,
+  "best_metric": 6.760484218597412,
   "best_model_checkpoint": "./lora_mbart_results\\checkpoint-5",
   "epoch": 1.0,
   "eval_steps": 500,
@@ -10,10 +10,10 @@
   "log_history": [
     {
       "epoch": 1.0,
-      "eval_loss": 6.767548561096191,
-      "eval_runtime": 0.5181,
-      "eval_samples_per_second": 9.652,
-      "eval_steps_per_second": 3.861,
+      "eval_loss": 6.760484218597412,
+      "eval_runtime": 0.5239,
+      "eval_samples_per_second": 9.543,
+      "eval_steps_per_second": 3.817,
       "step": 5
     }
   ],

@@ -20,12 +20,12 @@
   "rank_pattern": {},
   "revision": null,
   "target_modules": [
-    "v_proj",
     "q_proj",
-    "out_proj",
+    "v_proj",
+    "fc1",
     "k_proj",
-    "fc2",
-    "fc1"
+    "out_proj",
+    "fc2"
   ],
   "task_type": "SEQ_2_SEQ_LM",
   "use_dora": false,
